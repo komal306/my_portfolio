@@ -28,7 +28,7 @@ HOW TO VIEW
 
 Clone the repository:
 
-git clone https://
+git clone https://github.com/komal306/my_portfolio
 Open the index.html file in any browser.
 
 (If you have hosted it, add a live demo link here, e.g. LIVE DEMO)
